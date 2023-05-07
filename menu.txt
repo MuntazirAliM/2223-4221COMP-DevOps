@@ -1,0 +1,32 @@
+Nando's,Cottage cheese salad,20.55
+Nando's,Caesar salad,40
+Nando's,Chicken fingers,34
+Nando's,Peri peri bites,23
+Nando's,Chicken espetada,22
+Nando's,Stuffed chicken,30
+kfc,Krunch burger,21.5
+kfc,Kentucky burger, 20
+kfc,Hot shots 10 pcs, 40.5
+kfc,Chicken wings, 32
+kfc,Chicken pieces 3 pcs, 54
+kfc,Fries bucket, 42
+kfc,beef burger,13
+kfc,beef burger,21
+kfc,pizza,56
+kfc,Krunch burger, 60
+kfc,Kentucky burger, 20
+kfc,Hot shots 10 pcs, 40.5
+kfc,Chicken wings, 32
+kfc,Chicken pieces 3 pcs, 54
+kfc,Fries bucket, 42
+kfc,beef burger,13
+kfc,beef burger,21
+Second cup,Pasta,67
+Second cup,Coffee,55
+Second cup,Americano,44
+Second cup,Late,43
+Second cup,Cappuccino,56 
+Second cup,Espresso,89
+Second cup,Mocha,38
+Second cup,White chocolate mocha,56
+Second cup,Frappe,32

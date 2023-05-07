@@ -1,0 +1,7 @@
+Second cup,Coffee,3
+Second cup,Cappuccino,4
+Second cup,Mocha,8
+kfc,Kentucky burger,3
+kfc,Chicken wings,5
+kfc,Kentucky burger,4
+kfc,Chicken pieces 3 pcs,6
